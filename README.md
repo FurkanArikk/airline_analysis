@@ -2,7 +2,7 @@
 
 > This project is from [Codecademy](https://www.codecademy.com/courses/eda-exploratory-data-analysis-python/projects/eda-and-data-visualization)
 
-Our favorite airline provides us with the following data for analysis:
+You decide to look into your favorite airline. The data include:
 
 - `miles`: miles traveled through the flight
 - `passengers`: number of passengers on the flight
